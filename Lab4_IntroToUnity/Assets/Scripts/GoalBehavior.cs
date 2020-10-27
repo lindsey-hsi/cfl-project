@@ -8,7 +8,7 @@ public class GoalBehavior : MonoBehaviour
     {
        //Put collision code here
        if (collision.gameObject.name == "Marble") {
-         Destroy(this.transform.parent.gameObject);
+         Destroy(this.transform.gameObject);
 
          Debug.Log("Item collected!");
        }

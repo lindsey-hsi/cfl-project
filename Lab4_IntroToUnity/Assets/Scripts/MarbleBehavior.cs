@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class MarbleBehavior : MonoBehaviour
 {
-    public float moveSpeed = 5f;
-    public float rotateSpeed = 15f;
+    public float moveSpeed = 15f;
+    public float rotateSpeed = 35f;
     
     private float fbInput;
     private float lrInput;
