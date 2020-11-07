@@ -1,2 +1,2 @@
-For extra credit our group added particle systems to each goal object that
-dissapeared along with goal upon collision with the marble.
+For extra credit our group added a health powerup that adds 5 points to the Marble's health
+and then dissapears after being collected.

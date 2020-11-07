@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 5926534917857071851}
   - component: {fileID: -5074835594210545824}
   - component: {fileID: -2419802244427924276}
+  - component: {fileID: 8618373013029198052}
   m_Layer: 0
   m_Name: Obstacle
   m_TagString: Untagged
@@ -126,3 +127,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   onscreenDelay: 3
+  marble: {fileID: 0}
+--- !u!195 &8618373013029198052
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5926534917857071861}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 1
+  m_BaseOffset: 0.5
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
