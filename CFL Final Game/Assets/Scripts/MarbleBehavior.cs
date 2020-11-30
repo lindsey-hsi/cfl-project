@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class MarbleBehavior : MonoBehaviour
 {
-    public float moveSpeed = 15f;
-    public float rotateSpeed = 35f;
+    public float moveSpeed = 25f;
+    public float rotateSpeed = 45f;
     public float jumpVelocity = 5f;
     public float distanceToGround = 0.1f;
     public LayerMask groundLayer;

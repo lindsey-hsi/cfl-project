@@ -45,7 +45,6 @@ public class ObstacleBehavior : MonoBehaviour
     }
 
     void OnCollisionEnter(Collision collision) {
-      Debug.Log("collision detected!");
       // if (collision.gameObject.tag == "Blast") {
       // works if marble collides, something with the name of blast, but not sure what
       // if (collision.gameObject.name == "Marble") {
