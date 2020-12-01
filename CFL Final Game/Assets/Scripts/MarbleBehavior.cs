@@ -10,7 +10,6 @@ public class MarbleBehavior : MonoBehaviour
     public float distanceToGround = 0.1f;
     public LayerMask groundLayer;
 
-    public GameObject blast;
     public float blastSpeed = 100f;
     
     private float fbInput;
@@ -53,14 +52,6 @@ public class MarbleBehavior : MonoBehaviour
         _rb.MovePosition(this.transform.position + this.transform.forward * fbInput * Time.fixedDeltaTime);
         _rb.MoveRotation(_rb.rotation * angleRot);
    
-        if (Input.GetMouseButtonDown(0))
-        {
-            GameObject newBlast = Instantiate(blast, this.transform.position, this.transform.rotation) as GameObject;
-
-            Rigidbody blastRB = newBlast.GetComponent<Rigidbody>();
-
-            blastRB.velocity = this.transform.forward * blastSpeed;
-        }
     }
 
     private bool IsGrounded()

@@ -66,31 +66,31 @@
      <Compile Include="Assets\Scripts\PowerUpBehavior.cs" />
      <None Include="Assets\Scripts\README.txt" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Users/rachaelhutson/Desktop/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/rachaelhutson/Desktop/third_year/computers for learning/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/Users/rachaelhutson/Desktop/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/Users/rachaelhutson/Desktop/third_year/computers for learning/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/rachaelhutson/Desktop/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/rachaelhutson/Desktop/third_year/computers for learning/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/rachaelhutson/Desktop/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/rachaelhutson/Desktop/third_year/computers for learning/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Users/rachaelhutson/Desktop/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/Users/rachaelhutson/Desktop/third_year/computers for learning/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/rachaelhutson/Desktop/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/rachaelhutson/Desktop/third_year/computers for learning/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>/Users/rachaelhutson/Desktop/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>/Users/rachaelhutson/Desktop/third_year/computers for learning/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/rachaelhutson/Desktop/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/rachaelhutson/Desktop/third_year/computers for learning/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/rachaelhutson/Desktop/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/rachaelhutson/Desktop/third_year/computers for learning/cfl-project/cfl_hw5_lindsey/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.10f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
